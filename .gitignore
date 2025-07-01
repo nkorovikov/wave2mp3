@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+
+.DS_Store
+Thumbs.db
+*.orig
+*.log
+*.tmp
+
+input.mp3
+input.wav
+internal/pkg/provider/convlib/ffmpeg
+bin
